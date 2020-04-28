@@ -4,6 +4,8 @@ A simple web application to track the infected, recovered, and deaths caused by 
 
 Link to the App: [COVID-19 Tracker](https://covid19-tracker-kishan.herokuapp.com/)
 
+![image](https://user-images.githubusercontent.com/36665975/80481684-8e011700-8970-11ea-8be3-5320d0daea91.png)
+
 ## Available Scripts
 
 In the project directory, you can run:
