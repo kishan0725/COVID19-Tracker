@@ -1,4 +1,8 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# COVID-19 Tracker
+
+A simple web application to track the infected, recovered, and deaths caused by Coronavirus across all over the world using ReactJS, ChartJS, and Material UI. 
+
+Link to the App: [COVID-19 Tracker](https://covid19-tracker-kishan.herokuapp.com/)
 
 ## Available Scripts
 
