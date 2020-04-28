@@ -1,0 +1,39 @@
+body {
+  background-color: rgb(250, 250, 250);
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.heart {
+  font-size:150%;
+  color:red;
+}
+
+.footer {
+  color: #2e2e2e;
+  text-align:right;
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  width: 100%;
+}
+
+.image {
+  width: 350px;
+  margin-top: 50px;
+}
+
+@media (max-width:770px) {
+  .container{
+    margin: 0 10%;
+  }
+
+  .image {
+    width: 100%;
+  }
+}
