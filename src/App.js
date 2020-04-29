@@ -29,7 +29,7 @@ class App extends React.Component {
         <Cards data={data} />
         <CountryPicker handleCountryChange ={this.handleCountryChange}/>
         <Chart data={data} country={country}/>
-        <div className={styles.footer}>Made with<span className={styles.heart}> &hearts; </span>by Kishan</div>
+        <div className={styles.footer}>Made with<span className={styles.heart}> &nbsp; &hearts; &nbsp;</span>by Kishan</div>
       </div>
     );
   }
