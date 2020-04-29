@@ -17,9 +17,11 @@ body {
 .footer {
   color: #2e2e2e;
   text-align:right;
-  position: fixed;
+  position: relative;
+  display: flex;
+  justify-content: center;
+  top:20px;
   bottom: 20px;
-  right: 20px;
   width: 100%;
 }
 
